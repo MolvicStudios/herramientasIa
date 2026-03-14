@@ -1,0 +1,3010 @@
+{
+  "meta": {
+    "titulo": "Herramientas IA por Profesion",
+    "descripcion": "Directorio de herramientas de inteligencia artificial clasificadas por profesion",
+    "version": "1.0",
+    "ultima_actualizacion": "2026-03-14"
+  },
+  "categorias": [
+    {
+      "id": "marketing-growth",
+      "nombre": "Marketing y Growth",
+      "emoji": "📈",
+      "herramientas": [
+        {
+          "nombre": "Copy.ai",
+          "url": "https://www.copy.ai",
+          "descripcion": "Generador de contenido de marketing con IA para emails, ads y landing pages",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear textos publicitarios y emails de ventas",
+          "notas": "Interfaz intuitiva, plantillas predefinidas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Jasper",
+          "url": "https://www.jasper.ai",
+          "descripcion": "Plataforma IA especializada en crear contenido de marketing a escala",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Blog posts, redes sociales, campañas email",
+          "notas": "Soporta múltiples idiomas, templates para industrias",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Semrush",
+          "url": "https://www.semrush.com",
+          "descripcion": "Suite SEO y marketing con herramientas IA para análisis de competencia",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "SEO, analítica de marketing, investigación de palabras clave",
+          "notas": "Herramienta versátil para estrategia digital completa",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "HubSpot",
+          "url": "https://www.hubspot.com",
+          "descripcion": "CRM con IA para automatización de marketing y nurturing de leads",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Email marketing, lead scoring, segmentación automática",
+          "notas": "Plan gratuito limitado pero funcional",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Otter.ai",
+          "url": "https://otter.ai",
+          "descripcion": "Transcripción y análisis de reuniones con IA para capturar insights",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Grabar y resumir calls de ventas, webinars, reuniones",
+          "notas": "Usa IA para extraer puntos clave automáticamente",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Canva",
+          "url": "https://www.canva.com",
+          "descripcion": "Diseño gráfico con IA para crear materiales marketing visuales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Social media graphics, presentations, marketing materials",
+          "notas": "Plantillas para redes sociales, templates de brands",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Synthesia",
+          "url": "https://www.synthesia.io",
+          "descripcion": "Generación de videos con avatares IA para marketing y training",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos de producto, testimoniales, onboarding",
+          "notas": "Chat AI integrado para mejorar guiones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Brandmark",
+          "url": "https://brandmark.io",
+          "descripcion": "Generador de logos y branding con IA en segundos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear identidad visual para nuevas marcas o productos",
+          "notas": "Diseños vectoriales escalables",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Clearbit",
+          "url": "https://clearbit.com",
+          "descripcion": "Inteligencia de datos sobre empresas para segmentación y targeting",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Enriquecer leads, segmentación de cuentas, personas",
+          "notas": "API integrable, datos empresariales en tiempo real",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Interceptor",
+          "url": "https://interceptor.app",
+          "descripcion": "Herramienta IA para optimización de landing pages y UX",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "A/B testing automático, recomendaciones de conversión",
+          "notas": "Análisis de heatmaps con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Drift",
+          "url": "https://www.drift.com",
+          "descripcion": "Conversational marketing con chatbot IA para calificar leads",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Chat en tiempo real, calificación automática de leads",
+          "notas": "Integrable con CRM, reporting avanzado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "MidJourney",
+          "url": "https://www.midjourney.com",
+          "descripcion": "Generador de imágenes IA para assets visuales únicos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear imágenes para posts, portadas, mockups",
+          "notas": "Resultados artísticos de alta calidad",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Albert.ai",
+          "url": "https://www.albert.ai",
+          "descripcion": "Automatización de publicidad IA para optimizar presupuestos de ads",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión automática de campañas Facebook, Google, LinkedIn",
+          "notas": "Machine learning para ROI máximo",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "ventas-crm",
+      "nombre": "Ventas y CRM",
+      "emoji": "🤝",
+      "herramientas": [
+        {
+          "nombre": "Salesforce",
+          "url": "https://www.salesforce.com",
+          "descripcion": "CRM empresarial con IA para gestión completa de ventas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de oportunidades, pipeline, pronósticos IA",
+          "notas": "Einstein IA integrada, versión free disponible",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Pipedrive",
+          "url": "https://www.pipedrive.com",
+          "descripcion": "CRM visual enfocado en sales con automatización IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de leads, deals, actividades automáticas",
+          "notas": "Interfaz intuitiva tipo Kanban",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "HubSpot Sales Hub",
+          "url": "https://www.hubspot.com/products/sales",
+          "descripcion": "Herramientas de ventas con IA para secuencias y análisis",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Email tracking, secuencias automáticas, prospección",
+          "notas": "Plan gratuito completo para teams pequeños",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Gong",
+          "url": "https://www.gong.io",
+          "descripcion": "Análisis de conversaciones de ventas con IA para coaching",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Grabar calls, análisis automático, entrenamientos recomendados",
+          "notas": "Insights sobre qué hace ganar a los mejores sellers",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Rev.ai",
+          "url": "https://www.rev.ai",
+          "descripcion": "Transcripción de llamadas de ventas con análisis IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Grabar y resumir calls comerciales, crear notas automáticas",
+          "notas": "API para integración con sistemas existentes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Copper",
+          "url": "https://www.copper.com",
+          "descripcion": "CRM IA que se integra con Google Workspace",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de clientes en Gmail, sincronización automática",
+          "notas": "Ideal para usuarios de Google Workspace",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "ZoomInfo",
+          "url": "https://www.zoominfo.com",
+          "descripcion": "Base de datos de contactos empresariales con IA para prospecting",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Encontrar y verificar contactos, prospecting automático",
+          "notas": "API para enriquecimiento de leads",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Outreach",
+          "url": "https://www.outreach.io",
+          "descripcion": "Plataforma de orchestración de ventas con IA predictiva",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar outreach, predecir mejores tiempos de contacto",
+          "notas": "Secuencias automáticas, pipeline intelligence",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Clay",
+          "url": "https://www.clay.com",
+          "descripcion": "Enriquecimiento de datos con IA para listas de prospecting",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Construir y enriquecer listas de contactos automáticamente",
+          "notas": "Conexión con múltiples fuentes de datos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Lemlist",
+          "url": "https://lemlist.com",
+          "descripcion": "Automatización de cold email con IA personalizada",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Campañas de email personalizadas, tracking de conversiones",
+          "notas": "Personalización dinámica con datos de LinkedIn",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Hunter.io",
+          "url": "https://hunter.io",
+          "descripcion": "Búsqueda de emails empresariales con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Encontrar emails de contactos, verificación de dominios",
+          "notas": "Extensión de Chrome integrada",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Notion CRM",
+          "url": "https://www.notion.so",
+          "descripcion": "CRM minimalista basado en Notion con automatización IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión flexible de contactos y deals para startups",
+          "notas": "Personalizable, integración con múltiples apps",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Yext",
+          "url": "https://www.yext.com",
+          "descripcion": "Gestión de datos de negocios con IA para mejorar visibilidad",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Actualizar información empresarial en múltiples directorios",
+          "notas": "Importancia para G-Local-S&O",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "diseno-ux-ui",
+      "nombre": "Diseno UX/UI",
+      "emoji": "🧩",
+      "herramientas": [
+        {
+          "nombre": "Figma",
+          "url": "https://www.figma.com",
+          "descripcion": "Herramienta de diseño colaborativo con plugins IA para prototipos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseñar interfaces, wireframes, prototipos interactivos",
+          "notas": "Plan gratuito generoso, colaboración en tiempo real",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Framer",
+          "url": "https://www.framer.com",
+          "descripcion": "Herramienta de design-to-code con IA para exportar directamente",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear prototipos interactivos listos para código",
+          "notas": "Genera código React automáticamente",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Sketch",
+          "url": "https://www.sketch.com",
+          "descripcion": "Diseño vectorial profesional con plugins para automatización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear sistemas de diseño, interfaces complejas",
+          "notas": "Plan gratuito con limitaciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "descripcion": "Herramienta Adobe para diseño UX/UI y prototipado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseño y prototipado de aplicaciones y webs",
+          "notas": "Integración con ecosistema Adobe, plan free limitado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Penpot",
+          "url": "https://penpot.app",
+          "descripcion": "Herramienta open-source de diseño colaborativo tipo Figma",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Diseño UX/UI con control total, alternativa de código abierto",
+          "notas": "Auto-hospedable, totalmente gratuito",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Webflow",
+          "url": "https://webflow.com",
+          "descripcion": "Plataforma visual para crear webs responsive con lógica",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseñar y publicar sitios web sin código",
+          "notas": "Plan gratuito con dominio Webflow",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Miro",
+          "url": "https://miro.com",
+          "descripcion": "Pizarra digital colaborativa para UX research y brainstorming",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Wireframes, user journeys, research maps",
+          "notas": "Colaboración en tiempo real, templates predefinidos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Maze",
+          "url": "https://maze.co",
+          "descripcion": "Plataforma para testing de prototipos con usuarios reales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Testing de usabilidad, recopilar feedback de usuarios",
+          "notas": "Análisis automático con IA de comportamiento",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Whimsical",
+          "url": "https://whimsical.com",
+          "descripcion": "Herramienta para flowcharts, wireframes y documentación visual",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear flujos de usuario, diagramas, documentación",
+          "notas": "Interfaz clara, plantillas para UX",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "InVision",
+          "url": "https://www.invisionapp.com",
+          "descripcion": "Prototipado y colaboración para diseñadores de productos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Prototipos interactivos, feedback y colaboración",
+          "notas": "Plan gratuito con limitaciones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "UserTesting",
+          "url": "https://www.usertesting.com",
+          "descripcion": "Plataforma para realizar user testing y obtener feedback",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Testing con usuarios reales, video feedback",
+          "notas": "Análisis automático de videos con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Balsamiq",
+          "url": "https://balsamiq.com",
+          "descripcion": "Herramienta minimalista para wireframes rápidos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Wireframes de baja fidelidad, sketching digital",
+          "notas": "Interfaz simple y rápida para MVP",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Protopie",
+          "url": "https://www.protopie.io",
+          "descripcion": "Prototipado avanzado con interacciones complejas sin código",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear prototipos realistas con microinteracciones",
+          "notas": "Simulación realista de comportamiento de apps",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "diseno-grafico-ilustracion",
+      "nombre": "Diseno Grafico e Ilustracion",
+      "emoji": "🎨",
+      "herramientas": [
+        {
+          "nombre": "Canva",
+          "url": "https://www.canva.com",
+          "descripcion": "Plataforma de diseño gráfico con miles de plantillas y IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear gráficos, posters, social media, presentaciones",
+          "notas": "Plan gratuito mas que suficiente, generador con IA",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "descripcion": "Generador de imágenes con IA a partir de descripciones",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear ilustraciones, arte conceptual, assets visuales",
+          "notas": "Resultados artísticos de alta calidad",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "DALL-E",
+          "url": "https://openai.com/dall-e-3",
+          "descripcion": "Generador de imágenes IA de OpenAI con alta calidad",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar imágenes a partir de texto descriptivo",
+          "notas": "Muy realista, integrado en ChatGPT Plus",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Adobe Express",
+          "url": "https://www.adobe.com/express",
+          "descripcion": "Herramienta Adobe simple para diseño gráfico rápido",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear gráficos, editar imágenes, diseños rápidos",
+          "notas": "Plan gratuito generoso con herramientas básicas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Photoshift",
+          "url": "https://www.photoshiftapp.com",
+          "descripcion": "Herramienta IA para edición de fotos y retoques",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Editar fotos, remover objetos, mejorar imágenes",
+          "notas": "Interfaz intuitiva para usuarios no expertos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Remove.bg",
+          "url": "https://www.remove.bg",
+          "descripcion": "Herramienta IA para remover fondos de imágenes automáticamente",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Limpiar fondos de fotos para productos o retratos",
+          "notas": "Un solo click, resultados profesionales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Procreate Dreams",
+          "url": "https://procreate.art",
+          "descripcion": "Aplicación de pintura digital para iPad con herramientas IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Ilustración digital profesional, arte conceptual",
+          "notas": "Plan gratuito con herramientas limitadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Affinity Designer",
+          "url": "https://affinity.serif.com/en-us/designer",
+          "descripcion": "Software profesional de diseño vectorial multiplataforma",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseño vectorial profesional, logos, ilustraciones",
+          "notas": "Versión free limitada, pago único sin suscripción",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Gravit Designer",
+          "url": "https://www.gravitdesigner.com",
+          "descripcion": "Herramienta de diseño vectorial basada en nube",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear logos, gráficos vectoriales, diseños",
+          "notas": "Plan gratuito completo, suscripción opcional",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Inkscape",
+          "url": "https://inkscape.org",
+          "descripcion": "Herramienta open-source profesional de diseño vectorial",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Diseño vectorial profesional, logos, iconos",
+          "notas": "Completamente graduado, no hay suscripción",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Pixlr",
+          "url": "https://pixlr.com",
+          "descripcion": "Editor de fotos online con herramientas IA integradas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Editar fotos, aplicar filtros, ajustar iluminación",
+          "notas": "Plan gratuito con limitaciones, versión pro sin anuncios",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Looka",
+          "url": "https://looka.com",
+          "descripcion": "Generador de logos con IA personalizado",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear logos únicos para empresas y marcas",
+          "notas": "Personalización iterativa hasta logo final",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Adobe Firefly",
+          "url": "https://www.adobe.com/products/firefly.html",
+          "descripcion": "Generador de imágenes y efectos con IA de Adobe",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar imágenes, efectos visuales, expandir fondos",
+          "notas": "Integrado en Creative Cloud, créditos gratuitos",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "desarrollo-software",
+      "nombre": "Desarrollo de Software",
+      "emoji": "💻",
+      "herramientas": [
+        {
+          "nombre": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "descripcion": "Asistente de IA para completar código y generar snippets",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Autocompletar código, generar funciones, debugging",
+          "notas": "Plan gratuito limitado, muy potente con GitHub Pro",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "descripcion": "Chat IA general muy útil para ayuda en programación",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Resolver problemas, explicar código, generar soluciones",
+          "notas": "Versión gratuita poderosa, plus para GPT-4",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Claude",
+          "url": "https://claude.ai",
+          "descripcion": "Asistente IA versátil para programación y análisis",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar código, refactoring, análisis de problemas",
+          "notas": "Excelente comprensión de contexto, plan free generoso",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Tabnine",
+          "url": "https://www.tabnine.com",
+          "descripcion": "Completador de código IA para IDEs modernas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Autocompletar inteligente, reducir tiempo de codificación",
+          "notas": "Funciona offline, soporta múltiples lenguajes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Codeium",
+          "url": "https://codeium.com",
+          "descripcion": "Asistente de código IA gratuito alternativa a Copilot",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Completar código, generar funciones rápidamente",
+          "notas": "Muy similar a Copilot pero gratis",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Replit",
+          "url": "https://replit.com",
+          "descripcion": "IDE online colaborativo con IA integrada",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Codificar en la nube, compartir proyectos, learning",
+          "notas": "Plan gratuito para desarrollo, AI asistente integrado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "GitLab",
+          "url": "https://gitlab.com",
+          "descripcion": "Plataforma DevOps con features IA para desarrollo",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Control de versiones, CI/CD, análisis de código",
+          "notas": "Plan gratuito completo, IA en plan pro",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "DigitalOcean",
+          "url": "https://www.digitalocean.com",
+          "descripcion": "Cloud computing simple para deploy de aplicaciones",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Hosting, bases de datos, deployment de proyectos",
+          "notas": "Créditos gratuitos para nuevos usuarios",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Budibase",
+          "url": "https://budibase.com",
+          "descripcion": "Plataforma open-source para crear apps sin código",
+          "idioma": "EN",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Crear dashboards, CRUD apps, admin panels",
+          "notas": "Auto-hospedable, completamente gratuito",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Supabase",
+          "url": "https://supabase.com",
+          "descripcion": "Backend open-source similar a Firebase",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Base de datos, autenticación, storage en tiempo real",
+          "notas": "Plan gratuito generoso, excelente para startups",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Railway",
+          "url": "https://railway.app",
+          "descripcion": "Plataforma moderna para deploy y DevOps simple",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Desplegar apps full-stack rápidamente",
+          "notas": "Créditos gratuitos visuales y fácil setup",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Vercel",
+          "url": "https://vercel.com",
+          "descripcion": "Plataforma especializada en deploy de apps Next.js",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Desplegar frontends, serverless functions",
+          "notas": "Plan gratuito perfecto para proyectos personales",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Render",
+          "url": "https://render.com",
+          "descripcion": "Alternativa moderna a Heroku para hosting web",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Deploy de APIs, webs estáticas, bases de datos",
+          "notas": "Tier gratuito para proyectos pequeños",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "data-science-bi",
+      "nombre": "Data Science y BI",
+      "emoji": "📊",
+      "herramientas": [
+        {
+          "nombre": "Tableau",
+          "url": "https://www.tableau.com",
+          "descripcion": "Plataforma líder para visualización de datos e BI",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear dashboards, visualizaciones, reportes interactivos",
+          "notas": "Versión pública gratuita, powerful para grandes datos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Power BI",
+          "url": "https://powerbi.microsoft.com",
+          "descripcion": "Herramienta Microsoft para BI y análisis de datos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Dashboards, análisis predictivo, reporting",
+          "notas": "Integración con Office 365, precio accesible",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Looker",
+          "url": "https://cloud.google.com/looker",
+          "descripcion": "Plataforma BI de Google para análisis de datos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear dashboards, exploración de datos",
+          "notas": "Integración con BigQuery, plan gratuito disponible",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Metabase",
+          "url": "https://www.metabase.com",
+          "descripcion": "Herramienta open-source de BI simple y colaborativa",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Dashboards, consultas SQL visual, reportes",
+          "notas": "Auto-hospedable, fácil de configurar",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Apache Superset",
+          "url": "https://superset.apache.org",
+          "descripcion": "Plataforma open-source para visualización de datos",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Dashboards interactivos, exploración de datos",
+          "notas": "Muy flexible, comunidad muy activa",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Jupyter Notebook",
+          "url": "https://jupyter.org",
+          "descripcion": "Entorno interactivo para análisis de datos y ML",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Análisis exploratorio, machine learning, papers",
+          "notas": "Estándar en data science, totalmente gratuito",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Colab",
+          "url": "https://colab.research.google.com",
+          "descripcion": "Entorno gratuito basado en Jupyter con GPU",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Análisis de datos, machine learning en la nube",
+          "notas": "GPU gratuita, perfecto para aprender ML",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Observable",
+          "url": "https://observablehq.com",
+          "descripcion": "Plataforma para visualización interactiva de datos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear visualizaciones interactivas, análisis visual",
+          "notas": "Muy usado en periodismo de datos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Mode Analytics",
+          "url": "https://mode.com",
+          "descripcion": "Plataforma colaborativa para análisis SQL y visualización",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear reports, análisis exploratorio",
+          "notas": "Editor SQL integrado con visualización",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Datasette",
+          "url": "https://datasette.io",
+          "descripcion": "Herramienta open-source para explorar bases de datos",
+          "idioma": "EN",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Visualizar y explorar datos en SQLite",
+          "notas": "Muy simple, perfecto para prototipos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Qlik Sense",
+          "url": "https://www.qlik.com/en/products/qlik-sense",
+          "descripcion": "Plataforma BI con IA para análisis predictivo",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Análisis avanzado, insights automáticos",
+          "notas": "Muy poderosa para análisis complejos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Plotly",
+          "url": "https://plotly.com",
+          "descripcion": "Librería y plataforma para visualización interactiva",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gráficos interactivos, dashboards programáticos",
+          "notas": "Excelente documentación, integrable en Python",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Grafana",
+          "url": "https://grafana.com",
+          "descripcion": "Plataforma open-source para monitoreo y dashboards",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Monitoreo en tiempo real, alertas",
+          "notas": "Muy usado en DevOps, plan cloud gratuito",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "finanzas-contabilidad",
+      "nombre": "Finanzas y Contabilidad",
+      "emoji": "💰",
+      "herramientas": [
+        {
+          "nombre": "Wave",
+          "url": "https://www.waveapps.com",
+          "descripcion": "Software contable gratuito para pequeñas empresas",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Facturación, contabilidad, reportes financieros",
+          "notas": "Completamente gratuito, muy completo",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Zoho Books",
+          "url": "https://www.zoho.com/books",
+          "descripcion": "Herramienta contable cloud con IA para automatización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Facturación, gestión de gastos, reportes",
+          "notas": "Plan gratuito limitado, muy asequible",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Xero",
+          "url": "https://www.xero.com",
+          "descripcion": "Contador cloud con IA para pymes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Contabilidad completa, impuestos, nómina",
+          "notas": "Estándar en contabilidad, trial gratuito",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Microsoft Excel",
+          "url": "https://www.microsoft.com/excel",
+          "descripcion": "Software de hojas de cálculo con formulas IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Análisis financiero, presupuestos, modelos",
+          "notas": "Plan gratuito en web, versión desktop pago",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Sheets",
+          "url": "https://sheets.google.com",
+          "descripcion": "Hojas de cálculo en nube gratuitas de Google",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Presupuestos, análisis financiero, tracking",
+          "notas": "Totalmente gratis, colaboración en tiempo real",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Notion",
+          "url": "https://www.notion.so",
+          "descripcion": "Base de datos versátil útil para tracking financiero",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Presupuestos personales, tracking de gastos",
+          "notas": "Plan gratuito completo para personal",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "YNAB",
+          "url": "https://www.youneedabudget.com",
+          "descripcion": "Aplicación para presupuestación y control de dinero",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión personal de presupuesto, ahorros",
+          "notas": "Trial gratuito de 34 días",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "PocketSmith",
+          "url": "https://www.pocketsmith.com",
+          "descripcion": "Plataforma para análisis y proyección financiera",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Análisis de cash flow, proyecciones futuras",
+          "notas": "Plan gratuito con funciones básicas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Expensify",
+          "url": "https://www.expensify.com",
+          "descripcion": "Gestión de gastos con OCR para recibos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Registrar gastos, reportes de gastos",
+          "notas": "OCR automático de recibos, reembolsos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Concur",
+          "url": "https://www.concur.com",
+          "descripcion": "Suite empresarial para viajes y gastos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de viajes, reportes de gastos empresariales",
+          "notas": "Muy usado en empresas grandes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "QuickBooks Online",
+          "url": "https://quickbooks.intuit.com",
+          "descripcion": "Software contable profesional con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Contabilidad profesional, nómina, impuestos",
+          "notas": "Estándar en USA para contabilidad",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "BudgetSimple",
+          "url": "https://www.budgetsimple.com",
+          "descripcion": "App simple para presupuestación personal",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Presupuestar, categorizar gastos",
+          "notas": "Interfaz muy simple y clara",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Wealthfront",
+          "url": "https://www.wealthfront.com",
+          "descripcion": "Robo-advisor para inversión automática",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de inversiones, portfolio automático",
+          "notas": "Invertir con autopiloto y tasas bajas",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "legal-compliance",
+      "nombre": "Legal y Compliance",
+      "emoji": "⚖️",
+      "herramientas": [
+        {
+          "nombre": "OpenAI ChatGPT",
+          "url": "https://chat.openai.com",
+          "descripcion": "IA general útil para resolver preguntas legales básicas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Consultar dudas legales, entender contratos",
+          "notas": "No reemplaza abogado profesional",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "LawGeex",
+          "url": "https://www.lawgeex.com",
+          "descripcion": "Plataforma IA para análisis y revisión de contratos",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Revisar contratos, identificar cláusulas riesgosas",
+          "notas": "Análisis con IA, reportes automáticos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Ironclad",
+          "url": "https://www.ironcladapp.com",
+          "descripcion": "Plataforma de gestión de contratos con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Centralizar contratos, automatizar flujos",
+          "notas": "Colaboración en contratos en tiempo real",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Rocket Lawyer",
+          "url": "https://www.rocketlawyer.com",
+          "descripcion": "Plataforma para crear documentos legales online",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear contratos, acuerdos, documentos legales",
+          "notas": "Más asequible que abogado, plantillas verificadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "LegalZoom",
+          "url": "https://www.legalzoom.com",
+          "descripcion": "Servicios legales online con documentos auditados",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear LLC, trademarks, acuerdos legales",
+          "notas": "Abogados verificados disponibles",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Docusign",
+          "url": "https://www.docusign.com",
+          "descripcion": "Plataforma para firma electrónica de documentos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Firmar documentos digitalmente, contratos remotos",
+          "notas": "Legalmente válido, plan gratuito disponible",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "HelloSign",
+          "url": "https://www.hellosign.com",
+          "descripcion": "Firma electrónica y gestión de documentos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Firmar documentos, rastrear estado",
+          "notas": "Integrable con múltiples herramientas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "ContractPodAi",
+          "url": "https://contractpodai.com",
+          "descripcion": "Análisis inteligente de contratos con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Extraer datos de contratos, compliance",
+          "notas": "Machine learning para clasificación de cláusulas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Everlaw",
+          "url": "https://www.everlaw.com",
+          "descripcion": "Plataforma de discovery electrónico con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Litigios, análisis de documentos legales",
+          "notas": "Para equipos legales complejos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "OnDeck",
+          "url": "https://www.ondeck.com",
+          "descripcion": "Financiamiento para pymes con documentación legal",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Préstamos rápidos, cumplimiento legal",
+          "notas": "Aprobación rápida con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Compliant",
+          "url": "https://www.compliant.io",
+          "descripcion": "Software para compliance y auditoría",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestionar compliance, auditorías",
+          "notas": "Documentación automática de procesos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Docketbird",
+          "url": "https://www.docketbird.com",
+          "descripcion": "Gestión de calendarios legales y deadlines",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Rastrear fechas legales, deadlines",
+          "notas": "Recordatorios automáticos para fechas críticas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Accordant",
+          "url": "https://www.accordant.ai",
+          "descripcion": "IA para análisis de riesgo legal",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Evaluación de riesgo en documentos",
+          "notas": "Powered by machine learning",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "recursos-humanos",
+      "nombre": "Recursos Humanos",
+      "emoji": "🧑‍💼",
+      "herramientas": [
+        {
+          "nombre": "BambooHR",
+          "url": "https://www.bamboohr.com",
+          "descripcion": "HRIS con IA para gestión de personal y nómina",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de empleados, datos personales, nómina",
+          "notas": "Plan gratuito para startups pequeñas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Deel",
+          "url": "https://www.deel.com",
+          "descripcion": "Plataforma para pagar nómina global con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Pagar empleados remotos, nómina internacional",
+          "notas": "Soporte en 150+ países, compliance local",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Lattice",
+          "url": "https://www.lattice.com",
+          "descripcion": "Plataforma para performance management con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Evaluaciones, feedback, desarrollo de talento",
+          "notas": "OKRs, 360 feedback, planes de desarrollo",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Guidepoint",
+          "url": "https://www.guidepoint.com",
+          "descripcion": "Red para entrevistas de expertos y research",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Conectar con expertos, investigación de mercado",
+          "notas": "Para due diligence, market research",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Workable",
+          "url": "https://www.workable.com",
+          "descripcion": "Herramienta ATS para reclutamiento con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Publicar ofertas, gestionar candidatos, entrevistas",
+          "notas": "Filtrado automático de candidatos con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Lever",
+          "url": "https://www.lever.co",
+          "descripcion": "Plataforma ATS moderna para reclutamiento",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestionar candidatos, colaborar en hiring",
+          "notas": "Interfaz moderna, reportes avanzados",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "HiBob",
+          "url": "https://www.hibob.com",
+          "descripcion": "HRIS moderno con IA para gestión de talento",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestión de personal, nómina, engagement",
+          "notas": "Enfoque en employee experience",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Greenhouse",
+          "url": "https://www.greenhouse.io",
+          "descripcion": "Solución integral de reclutamiento con analytics",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Reclutamiento estructurado, analytics de hiring",
+          "notas": "Usado por empresas Fortune 500",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Surge",
+          "url": "https://www.surgeforward.com",
+          "descripcion": "Plataforma para reclutamiento a velocidad",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Hiring rápido, sourcing de talento",
+          "notas": "Basado en AI matching",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Culture Amp",
+          "url": "https://www.cultureamp.com",
+          "descripcion": "Plataforma para engagement y pulse surveys",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Medir engagement, cultura empresa, feedback",
+          "notas": "Encuestas automáticas, análisis con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "15Five",
+          "url": "https://www.15five.com",
+          "descripcion": "Herramienta para feedback continuo y OKRs",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Check-ins semanales, OKRs, feedback",
+          "notas": "Alineación de objetivos y feedback",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Namely",
+          "url": "https://www.namely.com",
+          "descripcion": "Suite HR todo-en-uno con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "HRIS, nómina, beneficios, compliance",
+          "notas": "Muy completa para medianas empresas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Guiderails",
+          "url": "https://www.guiderails.io",
+          "descripcion": "Plataforma de compliance laboral",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Políticas HR, documentación legal",
+          "notas": "Automatización de procesos HR",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "educacion-formacion",
+      "nombre": "Educacion y Formacion",
+      "emoji": "🎓",
+      "herramientas": [
+        {
+          "nombre": "Coursera",
+          "url": "https://www.coursera.org",
+          "descripcion": "Plataforma de cursos online con certificados de universidades",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender nuevas habilidades, obtener certificados",
+          "notas": "Muchos cursos audibles gratis, certificado pago",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Udemy",
+          "url": "https://www.udemy.com",
+          "descripcion": "Plataforma de cursos online variados y asequibles",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender habilidades técnicas, desarrollo personal",
+          "notas": "Descuentos frecuentes, acceso de por vida",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org",
+          "descripcion": "Plataforma gratuita de programación y desarrollo",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Aprender a programar desde cero",
+          "notas": "Completamente gratuito, certificados válidos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Khan Academy",
+          "url": "https://www.khanacademy.org",
+          "descripcion": "Plataforma educativa gratuita para múltiples temas",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Aprender matemáticas, ciencias, historia",
+          "notas": "Completamente gratuito, sin anuncios",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Skillshare",
+          "url": "https://www.skillshare.com",
+          "descripcion": "Plataforma de cursos creativos con proyecto final",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender habilidades creativas, diseño, fotografía",
+          "notas": "Enfoque en proyectos prácticos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Pluralsight",
+          "url": "https://www.pluralsight.com",
+          "descripcion": "Plataforma de cursos tech enfocada en profesionales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender tecnologías, certifications IT",
+          "notas": "Muy actualizado con tendencias tech",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Duolingo",
+          "url": "https://www.duolingo.com",
+          "descripcion": "Aplicación gamificada para aprender idiomas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender idiomas de forma interactiva",
+          "notas": "Plan gratuito funcional, muy adictivo",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Masterclass",
+          "url": "https://www.masterclass.com",
+          "descripcion": "Cursos de expertos reconocidos mundialmente",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender de maestros en sus campos",
+          "notas": "Producción de video de alta calidad",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "LinkedIn Learning",
+          "url": "https://www.linkedin.com/learning",
+          "descripcion": "Cursos profesionales de LinkedIn",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Desarrollo profesional, habilidades empresariales",
+          "notas": "Certificados en LinkedIn, trial gratuito",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Codecademy",
+          "url": "https://www.codecademy.com",
+          "descripcion": "Plataforma interactiva para aprender programación",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender Python, JavaScript, desarrollo web",
+          "notas": "Interactivo con ejercicios prácticos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Treehouse",
+          "url": "https://teamtreehouse.com",
+          "descripcion": "Bootcamp online para desarrollo y diseño",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender desarrollo full-stack, UX/UI",
+          "notas": "Estructura de bootcamp, proyecto final",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Udacity",
+          "url": "https://www.udacity.com",
+          "descripcion": "Nanodegrees y cursos tech avanzados",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aprender IA, ML, desarrollo avanzado",
+          "notas": "Nanodegrees profesionales reconocidos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "edX",
+          "url": "https://www.edx.org",
+          "descripcion": "Cursos de universidades como MIT y Berkeley",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Cursos universitarios, ciencia, matemáticas",
+          "notas": "Fundada por MIT y Harvard, auditable gratis",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "atencion-cliente",
+      "nombre": "Atención al Cliente",
+      "emoji": "🎧",
+      "herramientas": [
+        {
+          "nombre": "Tidio",
+          "url": "https://www.tidio.com",
+          "descripcion": "Plataforma de atención al cliente con chatbot IA y live chat integrado",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar respuestas de clientes y gestionar tickets de soporte",
+          "notas": "Integra múltiples canales de comunicación",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Zendesk AI",
+          "url": "https://www.zendesk.com",
+          "descripcion": "Suite de servicio al cliente con IA para predicción de problemas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar tipificación de tickets y respuestas sugeridas",
+          "notas": "Analiza patrones en consultas de clientes",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Intercom",
+          "url": "https://www.intercom.com",
+          "descripcion": "Plataforma de comunicación con clientes con IA generativa",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Personalizar mensajes automáticos según comportamiento del usuario",
+          "notas": "Sin código necesario para implementar",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "ChatBot.com",
+          "url": "https://www.chatbot.com",
+          "descripcion": "Constructor visual de chatbots sin código con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear bots de atención al cliente para web y redes sociales",
+          "notas": "Interfaz drag-and-drop intuitiva",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Ada",
+          "url": "https://www.ada.cx",
+          "descripcion": "Agente IA de servicio al cliente conversacional",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Resolver el 80% de consultas automáticamente con IA",
+          "notas": "Aprende de interacciones previas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Freshdesk",
+          "url": "https://www.freshdesk.com",
+          "descripcion": "Software de gestión de tickets con asistente IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar asignación de tickets y priorización",
+          "notas": "Soporta multiple idiomas incluido español",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Klart",
+          "url": "https://www.klartsoftware.com",
+          "descripcion": "Plataforma IA para análisis de satisfacción del cliente",
+          "idioma": "ES",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Medir y mejorar experiencia del cliente con análisis IA",
+          "notas": "Especializada en mercado hispanohablante",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Dixa",
+          "url": "https://www.dixa.com",
+          "descripcion": "Plataforma omnicanal de atención al cliente",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Unificar conversaciones de email, chat, teléfono y redes sociales",
+          "notas": "IA aprende preferencias de clientes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Customerly",
+          "url": "https://www.customerly.io",
+          "descripcion": "Chatbot IA y plataforma de soporte integrada",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar 60% de consultas frecuentes",
+          "notas": "Seguridad de datos GDPR compliant",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Landbot",
+          "url": "https://www.landbot.io",
+          "descripcion": "Constructor conversacional no-code con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear conversaciones fluidas sin programación",
+          "notas": "Integración con webhooks y APIs",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Tars",
+          "url": "https://www.tars.com",
+          "descripcion": "Plataforma de chatbots conversacionales para leads",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Calificar leads automáticamente mediante conversaciones",
+          "notas": "Optimizado para conversión de ventas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Gorgias",
+          "url": "https://www.gorgias.io",
+          "descripcion": "Plataforma IA para atención multichannel en ecommerce",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar respuestas en Shopify, Magento y WooCommerce",
+          "notas": "Especializada en tiendas online",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Yellow.ai",
+          "url": "https://www.yellow.ai",
+          "descripcion": "Plataforma IA generativa para experiencia del cliente",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear agentes IA para servicio al cliente y ventas",
+          "notas": "Soporte para 135+ idiomas",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "ecommerce",
+      "nombre": "Ecommerce",
+      "emoji": "🛒",
+      "herramientas": [
+        {
+          "nombre": "Predictive Analytics by Google",
+          "url": "https://cloud.google.com/solutions/retail-analytics",
+          "descripcion": "Analytics IA para predicción de compra y comportamiento del cliente",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Predecir productos que comprará cada cliente",
+          "notas": "Integración nativa con Google Analytics",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Amazon Personalize",
+          "url": "https://aws.amazon.com/personalize",
+          "descripcion": "Servicio IA de AWS para recomendaciones personalizadas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Aumentar AOV con recomendaciones inteligentes",
+          "notas": "Usado por empresas Fortune 500",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Nosto",
+          "url": "https://www.nosto.com",
+          "descripcion": "Plataforma de personalización IA para tiendas online",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Personalizar experiencia de compra en tiempo real",
+          "notas": "Soporta Shopify, WooCommerce y más",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Dynamic Yield",
+          "url": "https://www.dynamicyield.com",
+          "descripcion": "Plataforma de personalización y optimización de conversión",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "A/B testing automático y personalización de contenido",
+          "notas": "IA detecta la mejor variante automáticamente",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Klevu",
+          "url": "https://www.klevu.com",
+          "descripcion": "Motor de búsqueda IA para ecommerce",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Mejorar búsqueda en tienda y aumentar conversión",
+          "notas": "Entiende intención de búsqueda del usuario",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Monetate",
+          "url": "https://www.monetate.com",
+          "descripcion": "Plataforma de personalización y testing continuo",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Optimizar cada elemento de la experiencia de compra",
+          "notas": "IA decide mejor experiencia automáticamente",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Shopify Magic",
+          "url": "https://www.shopify.com/magic",
+          "descripcion": "Herramientas IA generativa integradas en Shopify",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear descripciones, imágenes y copy automáticamente",
+          "notas": "Directamente integrado en dashboard Shopify",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Emporium",
+          "url": "https://www.emporium.ai",
+          "descripcion": "IA para análisis de competencia y pricing dinámico",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Optimizar precios basado en demanda y competencia",
+          "notas": "Monitorea 10000+ competidores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Segment",
+          "url": "https://segment.com",
+          "descripcion": "CDP con IA para segmentación automática de clientes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear segmentos automáticos para marketing",
+          "notas": "Unifica datos de múltiples fuentes",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Phrasee",
+          "url": "https://www.phrasee.co",
+          "descripcion": "IA generativa para optimizar copy de marketing",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar líneas de asunto y copy que mejore CTR",
+          "notas": "Aprende de mejores performers",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Rebuy",
+          "url": "https://www.rebuy.com",
+          "descripcion": "Plataforma de recomendaciones post-compra con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Incrementar ingresos repetidos con recomendaciones",
+          "notas": "Especializada en Shopify",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Retention.tech",
+          "url": "https://www.retention.tech",
+          "descripcion": "IA para predecir churn y retener clientes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Identificar clientes en riesgo de abandonar",
+          "notas": "Automáticamente envía ofertas de retención",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Intuition Robotics",
+          "url": "https://www.intuition-robotics.com",
+          "descripcion": "Agente IA para fulfillment ecommerce",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Automatizar picking, packing y shipping",
+          "notas": "Reduce errores y tiempos de entrega",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "salud-bienestar",
+      "nombre": "Salud y Bienestar",
+      "emoji": "🧘",
+      "herramientas": [
+        {
+          "nombre": "Babylon Health",
+          "url": "https://www.babylonhealth.com",
+          "descripcion": "Asistente IA para diagnóstico inicial y asesoramiento médico",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Consulta médica inicial basada en síntomas con IA",
+          "notas": "Regulado como dispositivo médico en varios países",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Ada Health",
+          "url": "https://www.ada.com",
+          "descripcion": "IA para autodiagnóstico y análisis de síntomas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Evaluar síntomas y orientar al paciente",
+          "notas": "Desarrollada con científicos médicos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Woebot",
+          "url": "https://www.woebot.io",
+          "descripcion": "Chatbot IA para salud mental y bienestar emocional",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Proporcionar apoyo emocional basado en terapia cognitiva",
+          "notas": "Basado en evidencia científica de psicología",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "K Health",
+          "url": "https://www.k.health",
+          "descripcion": "Plataforma IA para consultas médicas virtuales",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Conectar con médicos tras evaluación IA",
+          "notas": "Disponible en USA actualmente",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Mindstrong",
+          "url": "https://www.mindstrong.com",
+          "descripcion": "IA para detección temprana de problemas mentales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Identificar signos de depresión y ansiedad",
+          "notas": "Usa análisis de patrones de escritura",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Lark",
+          "url": "https://www.lark.com",
+          "descripcion": "Coach digital IA para salud y fitness",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Monitoreo de diabetes, pérdida de peso y fitness",
+          "notas": "Integra wearables y data de salud",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "MyFitnessPal",
+          "url": "https://www.myfitnesspal.com",
+          "descripcion": "App con IA para nutrición y entrenamiento",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Seguimiento de calorías con recomendaciones IA",
+          "notas": "Base de datos de 14+ millones de alimentos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Clarifai Health",
+          "url": "https://www.clarifai.com",
+          "descripcion": "IA para análisis de imágenes médicas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Detectar anomalías en radiografías y análisis",
+          "notas": "Plataforma de visión computacional médica",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "PathAI",
+          "url": "https://www.pathai.com",
+          "descripcion": "IA para análisis patológico digital",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diagnóstico de cáncer mediante patología digital",
+          "notas": "Plataforma B2B para laboratorios",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Headspace",
+          "url": "https://www.headspace.com",
+          "descripcion": "App de meditación con contenido personalizado por IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Entrenamiento personalizado de mindfulness y meditación",
+          "notas": "Recomendaciones según estado emocional",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Sanvello",
+          "url": "https://www.sanvello.com",
+          "descripcion": "Plataforma integrada de salud mental con IA",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Combinar terapia, coaching y medicinas con IA",
+          "notas": "Seguimiento diario de bienestar",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Health Studies",
+          "url": "https://health.google",
+          "descripcion": "Estudios de salud con IA usando datos de sensores",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Participar en estudios y recibir insights personalizados",
+          "notas": "Integra Fitbit, smartwatches y sensores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Tempus AI",
+          "url": "https://www.tempus.com",
+          "descripcion": "IA para oncología y medicina personalizada",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Tratamientos personalizados basados en IA",
+          "notas": "Analiza datos genómicos y moleculares",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "arquitectura-ingenieria",
+      "nombre": "Arquitectura e Ingeniería",
+      "emoji": "🏗️",
+      "herramientas": [
+        {
+          "nombre": "Autodesk Revit + AI",
+          "url": "https://www.autodesk.com/products/revit",
+          "descripcion": "BIM con inteligencia artificial para diseño arquitectónico",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseño paramétrico y análisis estructural automatizado",
+          "notas": "Estándar industrial en arquitectura",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Midjourney Architecture",
+          "url": "https://www.midjourney.com",
+          "descripcion": "IA generativa para concepto y visualización arquitectónica",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar conceptos y renders visuales rápidamente",
+          "notas": "Disponible como extension en Revit",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Stockly AI",
+          "url": "https://www.stockly.ai",
+          "descripcion": "IA para optimización de estructuras metálicas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseñar estructuras optimizadas con menos material",
+          "notas": "Reduce costos de construcción",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Spacemaker",
+          "url": "https://www.spacemaker.ai",
+          "descripcion": "IA para planificación urbana y diseño de sitios",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar múltiples opciones de diseño en segundos",
+          "notas": "Utiliza machine learning para optimización",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Bentley OpenRoads",
+          "url": "https://www.bentley.com",
+          "descripcion": "Ingeniería de carreteras con inteligencia artificial",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseño y análisis de infraestructura vial",
+          "notas": "Optimización automática de trazados",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "ETABS",
+          "url": "https://www.csiamerica.com/products/etabs",
+          "descripcion": "Software de análisis estructural con generación IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Análisis sísmico y de viento automatizado",
+          "notas": "Usado en grandes proyectos worldwide",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Esri ArcGIS + AI",
+          "url": "https://www.esri.com",
+          "descripcion": "GIS con machine learning para análisis territorial",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Análisis geoespacial y planificación urbana",
+          "notas": "Identifica patrones en datos geográficos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Stratasys H-Series",
+          "url": "https://www.stratasys.com",
+          "descripcion": "Impresoras 3D con optimización IA para partes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Fabricación aditiva optimizada y prototipado",
+          "notas": "Reduce material y tiempo de impresión",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Taiga",
+          "url": "https://www.taiga.io",
+          "descripcion": "Agile para proyectos de ingeniería con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Gestión de proyectos complejos de ingeniería",
+          "notas": "Asignación automática de tareas con IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Nemetschek Allplan",
+          "url": "https://www.allplan.com",
+          "descripcion": "BIM con asistente IA para arquitectura e ingeniería",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Modelado BIM acelerado con sugerencias IA",
+          "notas": "Automatiza tareas repetitivas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "NVIDIA OMNIVERSE",
+          "url": "https://www.nvidia.com/en-us/omniverse",
+          "descripcion": "Plataforma de simulación y visualización con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Simulación física y visualización arquitectónica",
+          "notas": "Renders en tiempo real con IA",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Catia",
+          "url": "https://www.3ds.com/products-services/catia",
+          "descripcion": "CAD/CAM 3D con generative design IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseño de piezas optimizadas automáticamente",
+          "notas": "Industria aeroespacial y automotriz",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Fusion 360",
+          "url": "https://www.autodesk.com/products/fusion-360",
+          "descripcion": "CAD cloud con generative design y simulación",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Diseño y prototipado colaborativo en cloud",
+          "notas": "Optimización automática de diseños",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "medios-periodismo",
+      "nombre": "Medios y Periodismo",
+      "emoji": "📰",
+      "herramientas": [
+        {
+          "nombre": "Claude API for Journalism",
+          "url": "https://www.anthropic.com",
+          "descripcion": "IA para síntesis de información y fact-checking",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Resumir noticias y verificar hechos rápidamente",
+          "notas": "Acceso API para integración en plataformas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "ChatGPT Plus for Writers",
+          "url": "https://openai.com/chatgpt",
+          "descripcion": "IA generativa para redacción y edición de artículos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Redactar, editar y mejorar artículos periodísticos",
+          "notas": "Comprende contexto y matices del lenguaje",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Perplexity AI",
+          "url": "https://www.perplexity.ai",
+          "descripcion": "Buscador IA con citas exactas de fuentes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Investigación con referencias verificadas",
+          "notas": "Cita fuentes originales automáticamente",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Google Gemini Pro",
+          "url": "https://gemini.google.com",
+          "descripcion": "IA multimodal para análisis de textos e imágenes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Analizar documentos y crear resúmenes complejos",
+          "notas": "Procesa videos y documentos largos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Descript",
+          "url": "https://www.descript.com",
+          "descripcion": "Transcripción y edición con IA para podcasts",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Transcribir entrevistas y editar audio",
+          "notas": "Editar audio como si fuera texto",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Lighthouse AI",
+          "url": "https://lighthouse.io",
+          "descripcion": "Análisis de tendencias y temas con IA para medios",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Identificar historias relevantes y tendencias",
+          "notas": "Monitoreo de redes sociales y news",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Runwayml",
+          "url": "https://www.runwayml.com",
+          "descripcion": "Suite de IA generativa para video y contenido",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear efectos visuales y editar video con IA",
+          "notas": "Montaje automático de clips",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Factmata",
+          "url": "https://www.factmata.com",
+          "descripcion": "Verificación automatizada de desinformación",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Detectar fake news y bots en redes sociales",
+          "notas": "Machine learning para análisis de credibilidad",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Causal",
+          "url": "https://www.causal.app",
+          "descripcion": "Análisis causales y visualización de datos complex",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear visualizaciones interactivas para reportajes",
+          "notas": "Simplifica análisis de datos complejos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Ai Dungeon",
+          "url": "https://www.aidungeon.io",
+          "descripcion": "IA para narrativas y storytelling",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar historias alternativas y contextos",
+          "notas": "Excelente para ficción e investigación creativa",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "NotionAI",
+          "url": "https://www.notion.so",
+          "descripcion": "IA integrada para escritura en Notion",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar contenido y mejorar textos en tiempo real",
+          "notas": "Integrado en el flujo de trabajo del periodista",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Copysmash",
+          "url": "https://www.copysmash.com",
+          "descripcion": "IA para optimización de titulares y copy",
+          "idioma": "EN",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear titulares que maximizen engagement",
+          "notas": "Basado en análisis de histórico de clics",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Together AI",
+          "url": "https://www.together.ai",
+          "descripcion": "Plataforma de IA abierta para medios",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Usar modelos open-source para análisis editorial",
+          "notas": "Privacidad completa de datos",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "productividad-personal",
+      "nombre": "Productividad Personal",
+      "emoji": "⚡",
+      "herramientas": [
+        {
+          "nombre": "Notion AI",
+          "url": "https://www.notion.so",
+          "descripcion": "Asistente IA integrado en workspace Notion",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar contenido, resumir apuntes y mejorar textos",
+          "notas": "Se entrena con tus datos personales",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Obsidian Copilot",
+          "url": "https://obsidian.md",
+          "descripcion": "IA para conectar ideas en tu segundo cerebro digital",
+          "idioma": "Multi",
+          "tipo_acceso": "open-source",
+          "caso_uso": "Generar resúmenes y conexiones entre notas",
+          "notas": "Datos almacenados localmente, privado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Todoist + IA",
+          "url": "https://todoist.com",
+          "descripcion": "Gestor de tareas con asignación automática por IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Priorizar tareas automáticamente",
+          "notas": "Aprende tus hábitos de productividad",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Fireflies.ai",
+          "url": "https://www.fireflies.ai",
+          "descripcion": "IA para transcribir y resumir reuniones automáticamente",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Registrar y buscar en transcripciones de reuniones",
+          "notas": "Se integra en Zoom, Teams, Google Meet",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Motion",
+          "url": "https://www.motion.app",
+          "descripcion": "Asistente de calendario con optimización IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Agendar automáticamente priorizando productividad",
+          "notas": "Evita context switching",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Reclaim.ai",
+          "url": "https://reclaim.ai",
+          "descripcion": "Optimización de calendario con focus time automático",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Bloquear tiempo enfocado y equilibrar calendario",
+          "notas": "Protege tiempo para trabajo deep",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Otter.ai",
+          "url": "https://otter.ai",
+          "descripcion": "Transcripción y resumen de reuniones con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Capturar la esencia de conversaciones automáticamente",
+          "notas": "Extrae action items automáticamente",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Airgram",
+          "url": "https://airgram.io",
+          "descripcion": "Transcripción de reuniones con generación automática de notas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Documentar reuniones sin tomar notas",
+          "notas": "Identifica decisiones y action items",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Loom + Arcane",
+          "url": "https://www.loom.com",
+          "descripcion": "Videos de pantalla con resumen automático",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos explicativos y resumir automáticamente",
+          "notas": "Ahorra tiempo en explicaciones repetidas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Copilot in Windows",
+          "url": "https://copilot.microsoft.com",
+          "descripcion": "Asistente IA integrado en Windows 11",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Automatizar tareas del sistema operativo",
+          "notas": "Acceso a cualquier ventana del SO",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Raycast Pro",
+          "url": "https://www.raycast.com",
+          "descripcion": "Launcher con IA para Mac y Linux",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Acceso rápido a herramientas y automatización",
+          "notas": "Extiende productividad del teclado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Superhuman Email",
+          "url": "https://superhuman.com",
+          "descripcion": "Cliente email con IA para gestión inteligente",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Procesar inbox con 10x más velocidad",
+          "notas": "IA sugiere respuestas automáticas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Claude Desktop",
+          "url": "https://www.anthropic.com",
+          "descripcion": "Aplicación desktop de Claude para productividad",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Análisis de documentos y redacción offline",
+          "notas": "Acceso a ficheros locales y herramientas",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "creadores-contenido",
+      "nombre": "Creadores de Contenido",
+      "emoji": "✍️",
+      "herramientas": [
+        {
+          "nombre": "Jasper AI",
+          "url": "https://www.jasper.ai",
+          "descripcion": "Plataforma IA para redacción de contenido a escala",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar artículos, emails y copy con marca propia",
+          "notas": "Se entrena con tu voz y estilo",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Copy.ai",
+          "url": "https://www.copy.ai",
+          "descripcion": "Generador de copy y contenido para marketing",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear copy para anuncios y landing pages",
+          "notas": "100+ templates de contenido",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Writesonic",
+          "url": "https://writesonic.com",
+          "descripcion": "IA para contenido de blog, ads y emails",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar contenido SEO-optimizado rápidamente",
+          "notas": "Incluye fact-checking integrado",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Substack Writers",
+          "url": "https://substack.com",
+          "descripcion": "Plataforma con IA para newsletters",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Publicar newsletters y monetizar contenido",
+          "notas": "IA sugiere contenido basado en lectores",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Medium Partner Program + AI",
+          "url": "https://medium.com",
+          "descripcion": "Plataforma de publicación con recomendaciones IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Publicar artículos y alcanzar audiencia grande",
+          "notas": "IA distribuye contenido automáticamente",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "HubSpot Blog Ideas Generator",
+          "url": "https://www.hubspot.com",
+          "descripcion": "Generador de ideas de blog con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar 50 ideas de blog en minutos",
+          "notas": "Basado en SEO y tendencias",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Capsule AI",
+          "url": "https://www.capsuleai.app",
+          "descripcion": "IA para repurposar contenido en múltiples formatos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Convertir un artículo en tweets, shorts y posts",
+          "notas": "Mantiene la marca y el tono",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Later Social Media Planner",
+          "url": "https://www.later.com",
+          "descripcion": "Planificación de redes sociales con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear y programar contenido en múltiples redes",
+          "notas": "IA optimiza mejores horarios de publicación",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Buffer AI Assistant",
+          "url": "https://buffer.com",
+          "descripcion": "Asistente IA para gestión de redes sociales",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear y aprobar contenido de redes sociales",
+          "notas": "Incluye analítica e insights automáticos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Synthesia",
+          "url": "https://www.synthesia.io",
+          "descripcion": "Creador de videos con avatares IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar videos explicativos sin cámara",
+          "notas": "150+ idiomas y avatares personalizables",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Eleven Labs Voices",
+          "url": "https://elevenlabs.io",
+          "descripcion": "IA para voz natural en contenido de audio",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar voces naturales para videos y podcasts",
+          "notas": "Clonado de voces personalizado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Murf Studio",
+          "url": "https://www.murf.ai",
+          "descripcion": "Studio de IA para generación de voces y videos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos con voces en off profesionales",
+          "notas": "Sincronización lip-sync automática",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Grammarly for Creators",
+          "url": "https://www.grammarly.com",
+          "descripcion": "Corrección y mejora de contenido con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Mejorar readability y tono del contenido",
+          "notas": "Sugerencias de estilo y gramática",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "video-edicion",
+      "nombre": "Video y Edición",
+      "emoji": "🎬",
+      "herramientas": [
+        {
+          "nombre": "Adobe Premiere Pro + Sensei",
+          "url": "https://www.adobe.com/products/premiere",
+          "descripcion": "Suite de edición con IA para automatización",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Edición de video con efectos y transiciones IA",
+          "notas": "Auto-reframe para diferentes aspectos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+          "descripcion": "Editor profesional con IA gratis",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Edición, color grading y efectos con IA",
+          "notas": "Stabilización de video automática",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Runway ML",
+          "url": "https://www.runwayml.com",
+          "descripcion": "Suite de IA generativa para video",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Extender video, cambiar fondo, generar efectos",
+          "notas": "Text-to-video generativo",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Descript",
+          "url": "https://www.descript.com",
+          "descripcion": "Edición de video como si fuera documento",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Editar video eliminando palabras o párrafos",
+          "notas": "Transcripción automática y síncrona",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Opus Clip",
+          "url": "https://www.opus.pro",
+          "descripcion": "IA para repurposar videos largos en shorts",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Convertir podcasts en videos cortos de medios",
+          "notas": "Detecta momentos virales automáticamente",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Captions.ai",
+          "url": "https://www.captions.ai",
+          "descripcion": "Generador automático de subtítulos IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Añadir subtítulos automáticos y sincronizados",
+          "notas": "Múltiples idiomas y estilos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Filmora AI",
+          "url": "https://filmora.wondershare.com",
+          "descripcion": "Editor de video simplificado con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos profesionales sin experiencia",
+          "notas": "Templates y efectos IA incluidos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "CapCut Pro",
+          "url": "https://www.capcut.com",
+          "descripcion": "Edición móvil y desktop con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Edición rápida de video para redes sociales",
+          "notas": "Cambio de fondo automático con IA",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Pictory AI",
+          "url": "https://pictory.ai",
+          "descripcion": "Conversión de artículos en videos con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar videos automáticamente de texto",
+          "notas": "Stock footage y voces incluidas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Synthesia",
+          "url": "https://www.synthesia.io",
+          "descripcion": "Generación de videos con avatares IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos sin grabar ni editar",
+          "notas": "Perfecto para cursos online",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Doodly",
+          "url": "https://www.doodly.com",
+          "descripcion": "Herramienta para crear whiteboard videos IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos explicativos tipo pizarra",
+          "notas": "Animaciones personalizadas",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Adobe Firefly Video",
+          "url": "https://www.adobe.com/products/firefly",
+          "descripcion": "Generación de video con IA generativa",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar clips de video desde texto",
+          "notas": "Integrado con Creative Cloud",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Pika AI",
+          "url": "https://pika.art",
+          "descripcion": "Generador de video IA a partir de texto",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear videos estilo anime y realistas",
+          "notas": "Edición de video generado posible",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "audio-podcast",
+      "nombre": "Audio y Podcast",
+      "emoji": "🎙️",
+      "herramientas": [
+        {
+          "nombre": "Descript for Podcasters",
+          "url": "https://www.descript.com",
+          "descripcion": "Edición de audio como documento de texto",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Editar podcast eliminando muletillas y silencios",
+          "notas": "Transcripción automática en tiempo real",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Riverside.fm",
+          "url": "https://riverside.fm",
+          "descripcion": "Grabación remota de podcast con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Grabar episodios con invitados remotos en HD",
+          "notas": "Sincronización automática de audio",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Anchor by Spotify",
+          "url": "https://anchor.fm",
+          "descripcion": "Plataforma de podcast con distribución automática",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Crear y distribuir podcast sin equipamiento",
+          "notas": "Monetización automática con Spotify",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Elevenlabs for Podcasts",
+          "url": "https://elevenlabs.io",
+          "descripcion": "Voces IA naturales para narraciones",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar voces en off profesionales",
+          "notas": "Clonado de voz personalizado",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Adobe Audition + Enhance",
+          "url": "https://www.adobe.com/products/audition",
+          "descripcion": "Software de audio profesional con limpieza IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Mejorar calidad de audio y reducir ruido",
+          "notas": "Restauración de audio automática",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Podcast.ai",
+          "url": "https://www.podcast.ai",
+          "descripcion": "Generador de podcasts completamente IA",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Crear podcast automático con avatares IA",
+          "notas": "Voces naturales con emociones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Supertone",
+          "url": "https://www.supertone.ai",
+          "descripcion": "Clonado y síntesis de voz de alto nivel",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear voces realistas para contenido de audio",
+          "notas": "Preserva emociones y entonación",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Murf.ai",
+          "url": "https://www.murf.ai",
+          "descripcion": "Studio de voces IA para audiolibros",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Narración profesional para audiolibros y podcasts",
+          "notas": "150+ voces en múltiples idiomas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Soundraw",
+          "url": "https://soundraw.io",
+          "descripcion": "Música royalty-free generada por IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Crear música de fondo personalizada para podcast",
+          "notas": "Cero riesgos de copyright",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Beatoven.ai",
+          "url": "https://www.beatoven.ai",
+          "descripcion": "Música IA adaptativa para content creators",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Generar música que se adapta al mood del podcast",
+          "notas": "Copyright-free y royalty-free",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Podpage",
+          "url": "https://www.podpage.com",
+          "descripcion": "Convertir podcast en blog con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "gratis",
+          "caso_uso": "Repurposar transkripciones en artículos SEO",
+          "notas": "Distribución automática en sitios",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Opus Clip Pro",
+          "url": "https://www.opus.pro",
+          "descripcion": "Repurposing de podcast a videos cortos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Convertir episodios en TikTok y Reels",
+          "notas": "Detecta momentos claves automáticamente",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Alby",
+          "url": "https://www.alby.com",
+          "descripcion": "Plataforma de podcasting con monetización IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Publicar podcast con patrocinios automáticos",
+          "notas": "Facilita ingresos desde el primer episodio",
+          "destacado": false,
+          "verificado": true
+        }
+      ]
+    },
+    {
+      "id": "operaciones-logistica",
+      "nombre": "Operaciones y Logística",
+      "emoji": "🚚",
+      "herramientas": [
+        {
+          "nombre": "SAP Analytics Cloud",
+          "url": "https://www.sap.com/products/cloud-analytics",
+          "descripcion": "Análisis predictivo IA para cadena de suministro",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Predicción de demanda y optimización de inventario",
+          "notas": "Estándar en grandes empresas",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Blue Yonder",
+          "url": "https://www.blueyonder.com",
+          "descripcion": "IA para optimización de supply chain",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Planificación de demanda y optimización de rutas",
+          "notas": "Reduce costos logísticos hasta 20%",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Manhattan Associates",
+          "url": "https://www.manh.com",
+          "descripcion": "Plataforma IA para gestión de almacenes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Automatizar picking, packing y envíos",
+          "notas": "Integración con sistemas legacy",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Project44",
+          "url": "https://www.project44.com",
+          "descripcion": "Visibilidad global de envíos con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Rastreo en tiempo real y predicción de retrasos",
+          "notas": "Cubre 200+ países",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Flexport",
+          "url": "https://www.flexport.com",
+          "descripcion": "Logística global con IA para predicción",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Gestionar envíos internacionales con optimización",
+          "notas": "Red de alianzas global",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Logitech AI",
+          "url": "https://www.logitech.com",
+          "descripcion": "Plataforma IA para routings de entregas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Optimizar rutas de entrega y reducir costos",
+          "notas": "Algoritmos de machine learning patentados",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Voimista",
+          "url": "https://www.voimista.com",
+          "descripcion": "IA para gestión de almacenes",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Búsqueda inteligente de inventario",
+          "notas": "Reduce tiempo de búsqueda 50%",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Everstream Analytics",
+          "url": "https://www.everstream.ai",
+          "descripcion": "Análisis de riesgo en supply chain",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Monitoreo de proveedores y detección de riesgos",
+          "notas": "Cubre 190+ países y 100+ industrias",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Llamasoft Scenario",
+          "url": "https://www.llamasoft.com",
+          "descripcion": "Modelado de supply chain con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Simular decisiones de logística antes de implementar",
+          "notas": "Reduce inversión en decisiones",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Kinaxis RapidResponse",
+          "url": "https://www.kinaxis.com",
+          "descripcion": "Platform de planeamiento con IA",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Planificación de demanda y colaboración integrada",
+          "notas": "Responde a cambios en < 10 minutos",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "Walgreens Boots Alliance AI",
+          "url": "https://www.walgreensbootsalliance.com",
+          "descripcion": "Sistemas IA para entregas ultrarápidas",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Entregas mismo día desde micro fulfillment",
+          "notas": "Automatización de almacenes compactos",
+          "destacado": true,
+          "verificado": true
+        },
+        {
+          "nombre": "Datamatics TDM",
+          "url": "https://www.datamatics.com",
+          "descripcion": "Transformación digital de datos logísticos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Limpiar y unificar datos de múltiples fuentes",
+          "notas": "Prepara datos para análisis IA",
+          "destacado": false,
+          "verificado": true
+        },
+        {
+          "nombre": "ORTEC Integrated Planning",
+          "url": "https://www.ortec.com",
+          "descripcion": "Optimización de recursos logísticos",
+          "idioma": "Multi",
+          "tipo_acceso": "freemium",
+          "caso_uso": "Asignación de recursos y scheduling automático",
+          "notas": "Formula matemática para optimización",
+          "destacado": true,
+          "verificado": true
+        }
+      ]
+    }
+  ]
+}

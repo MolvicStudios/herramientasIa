@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Herramientas IA por Profesión — Directorio de herramientas de inteligencia artificial</title>
+  <meta name="description" content="Directorio con más de 250 herramientas de inteligencia artificial clasificadas por profesión. Encuentra la IA perfecta para marketing, ventas, diseño, desarrollo y más.">
+  <link rel="canonical" href="https://herramientasia.com/">
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Herramientas IA por Profesión">
+  <meta property="og:description" content="Directorio con más de 250 herramientas de inteligencia artificial clasificadas por profesión.">
+  <meta property="og:url" content="https://herramientasia.com/">
+  <meta property="og:site_name" content="Herramientas IA por Profesión">
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Herramientas IA por Profesión">
+  <meta name="twitter:description" content="Directorio con más de 250 herramientas de inteligencia artificial clasificadas por profesión.">
+  <!-- Favicon -->
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <!-- Estilos -->
+  <link rel="stylesheet" href="css/styles.css">
+  <!-- Datos estructurados JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Herramientas IA por Profesión",
+    "url": "https://herramientasia.com/",
+    "description": "Directorio de herramientas de inteligencia artificial clasificadas por profesión",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://herramientasia.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+</head>
+<body>
+  <!-- Banner de cookies -->
+  <div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Consentimiento de cookies" hidden>
+    <div class="cookie-banner__content">
+      <p>Usamos cookies para mejorar tu experiencia. Puedes aceptar todas o solo las esenciales.</p>
+      <div class="cookie-banner__actions">
+        <button id="cookie-accept-all" class="btn btn--primary">Aceptar todo</button>
+        <button id="cookie-essential" class="btn btn--secondary">Solo esenciales</button>
+        <a href="cookies.html" class="cookie-banner__link">Ver política de cookies</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ad slot header -->
+  <div class="ad-slot" id="ad-slot--header" aria-hidden="true"></div>
+
+  <!-- Header -->
+  <header class="header" id="header">
+    <div class="container">
+      <h1 class="header__title">Herramientas IA por Profesión</h1>
+      <p class="header__subtitle">Encuentra herramientas de IA para tu trabajo en minutos</p>
+      <p class="header__counter" id="counter" aria-live="polite"></p>
+      <div class="search-wrapper">
+        <label for="search-input" class="sr-only">Buscar herramientas</label>
+        <input
+          type="search"
+          id="search-input"
+          class="search-input"
+          placeholder="Buscar por nombre, descripción o caso de uso…"
+          autocomplete="off"
+        >
+      </div>
+      <!-- Tema claro/oscuro -->
+      <button id="theme-toggle" class="theme-toggle" aria-label="Cambiar tema claro/oscuro">
+        <span class="theme-toggle__icon" aria-hidden="true">🌙</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Navegación de categorías -->
+  <nav class="category-nav" id="category-nav" aria-label="Categorías de herramientas">
+    <ul class="category-nav__list" id="category-nav-list">
+      <!-- Se genera dinámicamente desde JS -->
+    </ul>
+  </nav>
+
+  <!-- Contenido principal -->
+  <main class="main" id="main">
+    <div class="container">
+      <div id="categories-container">
+        <!-- Se genera dinámicamente desde JS -->
+      </div>
+      <div id="empty-state" class="empty-state" hidden>
+        <p>No se encontraron herramientas con ese criterio de búsqueda.</p>
+      </div>
+      <div id="error-state" class="error-state" hidden>
+        <p>Error al cargar las herramientas. Por favor, recarga la página.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Ad slot in-content -->
+  <div class="ad-slot" id="ad-slot--in-content" aria-hidden="true"></div>
+
+  <!-- Botón volver arriba -->
+  <button id="back-to-top" class="back-to-top" aria-label="Volver arriba" hidden>↑</button>
+
+  <!-- Footer -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <p class="footer__update" id="footer-update"></p>
+      <nav class="footer__links" aria-label="Enlaces legales">
+        <a href="terminos.html">Términos de uso</a>
+        <a href="privacidad.html">Política de privacidad</a>
+        <a href="cookies.html">Política de cookies</a>
+        <button id="cookie-preferences" class="footer__link-btn">Preferencias de cookies</button>
+      </nav>
+      <p class="footer__suggest">
+        <a href="mailto:sugerencias@herramientasia.com?subject=Sugerir%20herramienta">Sugerir herramienta</a>
+      </p>
+    </div>
+    <!-- Ad slot footer -->
+    <div class="ad-slot" id="ad-slot--footer" aria-hidden="true"></div>
+  </footer>
+
+  <!-- ItemList JSON-LD (se genera dinámicamente) -->
+  <script id="itemlist-jsonld" type="application/ld+json">[]</script>
+
+  <!-- Scripts -->
+  <script src="js/cookies-banner.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
