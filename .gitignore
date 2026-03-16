@@ -8,8 +8,8 @@ Thumbs.db
 *.swp
 *.swo
 
-# Vercel
-.vercel/
+# Cloudflare
+.wrangler/
 
 # Node (por si se añade en el futuro)
 node_modules/
